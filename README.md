@@ -2,8 +2,7 @@
 
 ## 🌱 I'm a solutions architect, developer, and general tech junkie!
 
-- 🔭 I’m currently working on Kubenetes security as a Senior Solutions Architect at [Upwind](https://upwind.io)
-- 🏫 I'm a M.S. of Data Science candidate at the [University of Texas at Austin](https://cdso.utexas.edu/msds)
+- 🔭 I’m currently working on cloud security as a Senior Solutions Architect at [Upwind](https://upwind.io)
 - 🎓 I'm an alumni of the [University of Nevada, Reno](https://www.unr.edu/cse) and the [Univeristy of Maryland at College Park](https://mage.umd.edu/cybersecurity)
 - 👯 I’m looking to collaborate on open-source projects and challenging problems.
 - 💬 Ask me about:
