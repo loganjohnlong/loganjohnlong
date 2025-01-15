@@ -2,7 +2,7 @@
 
 ## 🌱 I'm a solutions architect, developer, and general tech junkie!
 
-- 🔭 I’m currently working on cloud security as a Senior Solutions Architect at [Upwind](https://upwind.io)
+- 🔭 I’m currently working on security as a Senior Cloud Solutions Architect at [Microsoft](https://www.microsoft.com/en-us/security)
 - 🎓 I'm an alumni of the [University of Nevada, Reno](https://www.unr.edu/cse) and the [Univeristy of Maryland at College Park](https://mage.umd.edu/cybersecurity)
 - 👯 I’m looking to collaborate on open-source projects and challenging problems.
 - 💬 Ask me about:
@@ -31,8 +31,6 @@
 
 ### Productivity:
 ![Brew](https://img.shields.io/badge/-Brew-FBB040?style=flat-square&logo=homebrew&logoColor=white)
-![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)
-![Overcast](https://img.shields.io/badge/-Overcast-FBBA48?style=flat-square&logo=overcast&logoColor=white)
 ![Unraid](https://img.shields.io/badge/-Unraid-F15A2C?style=flat-square&logo=unraid&logoColor=white)
 ![Home Assistant](https://img.shields.io/badge/-Home%20Assistant-41BDF5?style=flat-square&logo=home-assistant&logoColor=white)
 
